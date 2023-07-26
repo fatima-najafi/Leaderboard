@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h3><b>LeaderBoard</b></h3>
+  <h3><b>LeaderBoard- Project</b></h3>
 
 </div>
 
@@ -145,7 +145,7 @@ Deploy this project on any websever
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Deploy to a server**
-- [ ] **Add unit tests**
+- [ ] **Add style for layout**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
