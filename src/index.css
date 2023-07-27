@@ -5,9 +5,13 @@
 }
 
 .container {
-  border: 2px solid black;
   padding: 20px;
   margin: 5px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px black;
+  margin: 60px 18%;
 }
 
 .learder-container {
@@ -17,7 +21,7 @@
 }
 
 .title {
-  font-size: 80px;
+  font-size: 60px;
   color: black;
   font-weight: bold;
 }
@@ -30,17 +34,18 @@
 
 .view-score {
   width: 80%;
-  padding: 40px;
+  padding: 40px 20px 40px 20px;
 }
 
 .list {
   display: flex;
   flex-direction: row;
   padding-bottom: 20px;
+  gap: 0px;
 }
 
 .list h2 {
-  font-size: 35px;
+  font-size: 30px;
 }
 
 ul {
@@ -58,7 +63,8 @@ ul {
 }
 
 .refresh {
-  margin-left: 80px;
+  padding: 0px 5px;
+  border: 2px solid black;
 }
 
 .add-input {
@@ -73,9 +79,9 @@ ul {
   width: 60%;
 }
 
-button {
+.submit {
   padding: 2px 5px;
   border: 2px solid black;
   margin-top: 15px;
-  margin-left: 280px;
+  margin-left: 150px;
 }
