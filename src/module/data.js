@@ -15,7 +15,7 @@ const refresh = async () => {
   scoreContent.innerHTML = '';
   result.forEach((item) => {
     let li = '';
-    li = `<li class= "score-item"><span class= "li-item">${item.user}</span><span class="li-item">${item.score}</span> </li>`;
+    li = `<li class= "score-item"><span class= "li-item">${item.user}:</span><span class="li-item">${item.score}</span> </li>`;
     scoreContent.innerHTML += li;
   });
 };
