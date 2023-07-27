@@ -145,7 +145,7 @@ Deploy this project on any websever
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Deploy to a server**
-- [ ] **Add style for layout**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
